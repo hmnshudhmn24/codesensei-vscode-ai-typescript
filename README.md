@@ -3,7 +3,7 @@
 
 **CodeSensei** is an AI-powered Visual Studio Code extension that helps you learn TypeScript as you code. It explains errors, reviews your code, and teaches concepts inline using the OpenAI API.
 
----
+
 
 ## 🚀 Features
 
@@ -11,7 +11,7 @@
 - 🧪 Suggests improvements and reviews TypeScript code.
 - 🛠️ “What does this do?” command palette for learning on-the-fly.
 
----
+
 
 ## 🧰 Tech Stack
 
@@ -19,7 +19,7 @@
 - VS Code Extension API
 - OpenAI GPT (gpt-4)
 
----
+
 
 ## 📦 Installation
 
@@ -54,7 +54,7 @@
 
    - Press `F5` to open a new Extension Development Host window.
 
----
+
 
 ## 💡 Usage
 
@@ -64,20 +64,9 @@
   - `Explain Code with CodeSensei`
   - `Review Code with CodeSensei`
 
----
+
 
 ## 🛡️ Permissions & Security
 
 Your API key is stored in local settings and not shared or sent anywhere else except to OpenAI's API securely.
 
----
-
-## 📜 License
-
-MIT
-
----
-
-## 📩 Feedback
-
-Open issues or submit PRs to help improve CodeSensei!
