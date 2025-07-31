@@ -1,7 +1,7 @@
 
 # 🧠 CodeSensei: VS Code AI Assistant
 
-**CodeSensei** is an AI-powered Visual Studio Code extension that helps you learn TypeScript as you code. It explains errors, reviews your code, and teaches concepts inline using the OpenAI API.
+**CodeSensei** is an intelligent VS Code extension that teaches TypeScript while you code. It offers inline suggestions, explains TypeScript errors in plain English, and enhances learning with real-time AI feedback. With an integrated “What does this do?” feature in the command palette, developers can instantly understand unfamiliar code snippets. Powered by OpenAI and built using the VS Code Extension API, CodeSensei transforms your editor into an interactive TypeScript mentor.
 
 
 
